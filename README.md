@@ -1,20 +1,16 @@
 # 📔**Super Store**
-Tool : Google Collab, Tableau, Ms.Excel <br>
+Tool : Google Collab, Looker, Ms.Excel, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 Stage 0: Business Understanding
-## Background Project :
-Karena .
-
-## Objective :
-1. Mengidentifikasi .
-2. Memprediksi .
+## Tugas :
+Analisis Kinerja Penjualan dan Profitabilitas Ritel.
 
 ## Goals :
-maneuhejrk
+Mengidentifikasi pendorong utama Sales dan Profit dengan menganalisis dimensi pelanggan, geografis, dan produk, serta mengevaluasi dampak diskon terhadap volume penjualan dan keuntungan, guna mengoptimalkan strategi inventaris, penetapan harga, dan distribusi.
 <br>
 
 # 📂 Stage 1: Exploratory Data Analysis
